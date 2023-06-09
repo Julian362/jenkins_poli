@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+D:\Git\jenkins_poli\.metadata\.plugins\org.eclipse.jdt.core
